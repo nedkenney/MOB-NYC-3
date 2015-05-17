@@ -57,7 +57,7 @@
         </td>
         <td>
             <strong>2015 04 23</strong><br>
-            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2002">02 - Intro to Storyboards</a><br>
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2002">02 - Introduction to Storyboards</a><br>
             <a href="http://mobbook.generalassemb.ly/week02/ib2.html">3.3</a>
         </td>
     </tr>
@@ -74,7 +74,7 @@
         </td>
         <td><strong>2015 04 30</strong><br>
             <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2004">
-                04 - Intro to Control Flow</a>
+                04 - Introduction to Control Flow</a>
             <br>
             <em>Assessment #1 Due</em>
         </td>
@@ -104,22 +104,30 @@
         <td>2</td>
         <td><strong>2015 05 12</strong><br>
             <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2007">
-                07 - Interface Builder and Code<br>
-                UI Elements and View Controllers
+                07 - Powering Interfaces with Code
             </a>
             <br>
         </td>
         <td><strong>2015 05 14</strong><br>
-            08 - Data Structures
+            <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2008">
+                08 - Swift Data Structures
+            </a>
             <br>
+            <em>Assessment #2 due</em>
         </td>
     </tr>
     
     <tr>
         <td><strong>Wk 5</strong></td>
         <td>2</td>
-        <td><strong>2015 05 19</strong><br>09 - Table Views</td>
-        <td><strong>2015 05 21</strong><br>10 - iOS Design Patterns</td>
+        <td><strong>2015 05 19</strong><br>
+            09 - Table Views
+        </td>
+        <td><strong>2015 05 21</strong><br>
+            10 - iOS Design Patterns
+            <br>
+            <em>Assessment #3 due</em>
+        </td>
     </tr>
     
     <tr>
@@ -201,10 +209,16 @@ Work for the class consists of in-class exercises, "homework" assignments, and t
             </td>
         </tr>
         <tr>
-            <td><strong>02</strong></td>
+            <td><strong>02 - 03</strong></td>
             <td>
                 <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2004">
                     Complete the Intro to Swift playground
+                </a><br>
+                <a href="https://github.com/ga-students/MOB-NYC-3/tree/master/Lessons/Lesson%2005">
+                    Complete the Functions playground
+                </a><br>
+                <a href="https://github.com/ga-students/MOB-NYC-3/blob/master/Lessons/Lesson%2006/Lesson%2006%20-%20OOP%201.pdf">
+                    Complete the "Simulate a Game" near the end of the Lesson 06 slides (Slide 35).
                 </a>
             </td>
         </tr>
@@ -220,8 +234,7 @@ This is where you'll receive announcements, reminders about assignments, additio
 
 ## Office Hours
 
-**Angel** - Wednesdays 6pm to 9pm at GA (time still may change)  
-**William** - Saturday afternoons at GA
+Determined on a weekly basis...
 
 ## Github
 
